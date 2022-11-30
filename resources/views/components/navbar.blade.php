@@ -1,7 +1,7 @@
 <div>
 <nav class="px-2 bg-gradient-to-r from-red-700 via-red-500 to-red-800 border-gray-500 dark:bg-gray-800 dark:border-gray-700 z-20">
     <div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl px-4 md:px-6 py-2.5">
-        <a href="" class="flex items-center">
+        <a href="/" class="flex items-center">
             <img src="{{asset('img/logoandrea.png')}}" class="h-6 mr-3 sm:h-9" alt="logoandrea" />
             <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white"></span>
         </a>
